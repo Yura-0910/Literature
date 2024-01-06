@@ -4,6 +4,11 @@ Java:
 * "OpenJDK 19 Documentation": https://devdocs.io/openjdk~19/
 * "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
 
+Многопоточность:
+* Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
+* Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 45 - 68)
+* Data → Java → MultiThreading → «MultiThreading-Курс-Трегулов-Кратко»
+
 Чистый Код:
 * "Чистый код. Создание, Анализ, Рефакторинг" (Роберт Мартин), 2019-ый год
 * "Java. Эффективное програмирование" (Джошуа Блох), 3-е издание, 2019-ый год
