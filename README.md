@@ -3,21 +3,22 @@ Java:
 * "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
 * "OpenJDK 19 Documentation": https://devdocs.io/openjdk~19/
 * "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
+* 
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
-* [2] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 45 - 68)
-* [3] Data → Java → MultiThreading → «MultiThreading-Курс-Трегулов-Кратко»
+* [2] <b>Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 45 - 68)</b>
+* [3] <b>Data → Java → MultiThreading → «MultiThreading-Курс-Трегулов-Кратко»</b>
 * [4] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, Глава 11 "Многопоточное программирование" (стр.296-327)
 * [5] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, Глава 29 "Утилиты параллелизма (API)" (стр.1079-1133)\
       Кроме "Fork/Join Framework"
-* [6] Data → Java → MultiThreading → «MultiThreading-Герберт-Шилдт-Кратко»
+* [6] <b>Data → Java → MultiThreading → «MultiThreading-Герберт-Шилдт-Кратко»</b>
 * [7] «Чистый код. Создание, Анализ, Рефакторинг» (Роберт Мартин), Глава 13 «Многопоточность» (стр. 207-224)
 * [8] «Чистый код. Создание, Анализ, Рефакторинг» (Роберт Мартин), «Приложение А. Многопоточность II» (стр. 357-389)
-* [9] Data → «Как писать чистый код ?» → «MultiThreading-Роберт-Мартин-Кратко»
+* [9] <b>Data → «Как писать чистый код ?» → «MultiThreading-Роберт-Мартин-Кратко»</b>
 * [10] «Java. Эффективное програмирование» (Джошуа Блох), Глава 10 «Потоки» (стр. 358-398)
-* [11] Data → «Как писать чистый код ?» → «MultiThreading-Джошуа-Блох-Кратко»
-* [12] «Исходный код» → «/Документы/LearnJava-Prj/MultiThreadingAgain» + проект «MultiThreading» на Github
+* [11] <b>Data → «Как писать чистый код ?» → «MultiThreading-Джошуа-Блох-Кратко»</b>
+* [12] <b>«Исходный код» → «/Документы/LearnJava-Prj/MultiThreadingAgain» + проект «MultiThreading» на Github</b>
 * В планах: «MultiThreading-JLS-Chapter-17»
 * В планах: «MultiThreading-API»
 
