@@ -17,6 +17,7 @@ Java:
 * [9] Data → «Как писать чистый код ?» → «MultiThreading-Роберт-Мартин-Кратко»
 * [10] «Java. Эффективное програмирование» (Джошуа Блох), Глава 10 «Потоки» (стр. 358-398)
 * [11] Data → «Как писать чистый код ?» → «MultiThreading-Джошуа-Блох-Кратко»
+* [12] «Исходный код» → «/Документы/LearnJava-Prj/MultiThreadingAgain» + проект «MultiThreading» на Github
 * В планах: «MultiThreading-JLS-Chapter-17»
 * В планах: «MultiThreading-API»
 
