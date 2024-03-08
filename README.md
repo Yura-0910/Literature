@@ -32,6 +32,9 @@ Java:
 * Data → "Как писать чистый код ?" → "SOLID" → "L-Своими словами:: SOLID-Liskov"
 * Data → "Как писать чистый код ?" → "SOLID" → "I-Своими словами:: SOLID-InterfaceSegregation"
 * Data → "Как писать чистый код ?" → "SOLID" → "D-Своими словами:: DependencyInversion"
+* [5] "Google Java Style Guide":: google.github.io/styleguide/javaguide.html
+* Скачать "intellij-java-google-style.xml" можно тут:: github.com/google/styleguide/
+* File → Settings… → "Раздел Scheme" → "Import Scheme" → "intellij-java-google-style.xml"
 * В планах: "Java. Эффективное програмирование" (Джошуа Блох), 2-е издание, 2019-ый год
 
 Статический анализаторы Java-кода\Линтеры:
