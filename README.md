@@ -3,7 +3,7 @@ Java:
 * [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
 * [2] "OpenJDK 19 Documentation": https://devdocs.io/openjdk~19/
 * [3] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
-* [4] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff
+* [4] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 
 Многопоточность:
