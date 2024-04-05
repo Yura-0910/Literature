@@ -3,9 +3,10 @@ Java:
 * [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
 * [2] "OpenJDK 19 Documentation": https://devdocs.io/openjdk~19/
 * [3] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
-* [4] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
+* [4] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом
+* [5] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
 Jeanne Boyarsky), 2015-ый год, 379-389 страниц
-* [5] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
+* [6] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 
 Многопоточность:
