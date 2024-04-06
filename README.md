@@ -29,7 +29,11 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 
 Java Collection Framework
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 4-28)
-* [2] Data → Java → «Java Collection Framework» → «JCF-Курс-Трегулов-Кратко» 
+* [2] Data → Java → «Java Collection Framework» → «JCF-Курс-Трегулов-Кратко»
+
+Stream
+* [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 39-44)
+* [2] Data → Java → Stream → «Streams-Курс-Трегулов-Кратко»
 
 io-nio
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 69-85)
