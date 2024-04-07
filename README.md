@@ -52,7 +52,8 @@ io-nio
 * [5] "Google Java Style Guide":: google.github.io/styleguide/javaguide.html
 * Скачать "intellij-java-google-style.xml" можно тут:: github.com/google/styleguide/
 * File → Settings… → "Раздел Scheme" → "Import Scheme" → "intellij-java-google-style.xml"
-* [6] "Code Conventions for the Java Programming Language" https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
+* [6] "Code Conventions for the Java Programming Language"
+* https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
 * [7] В планах: "Java. Эффективное програмирование" (Джошуа Блох), 2-е издание, 2019-ый год
 
 Статический анализаторы Java-кода\Линтеры:
