@@ -1,13 +1,15 @@
 # Literature
 Java:
 * [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
-* [2] "OpenJDK 19 Documentation": https://devdocs.io/openjdk~19/
-* [3] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
-* [4] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
+* [2] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
+* [3] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
+* [4] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
+* [5] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
+* [6] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
 * Всего:: 193 страницы с переводом.
-* [5] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
+* [7] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
 Jeanne Boyarsky), 2015-ый год, 379-389 страниц
-* [6] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
+* [8] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 
 Многопоточность:
