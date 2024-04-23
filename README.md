@@ -73,7 +73,10 @@ Spring
 * [2] На будущее: "Pivotal Certified Professional Core Spring 5 Developer Exam" (Second Edition), "Iuliana Cosmina", 1007-1014 страниц.
 * [3] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
 * [4] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
-* [5] На будущее: spring.academy/paths/spring-certified-professional-2023 
+* [5] На будущее: https://spring.academy/paths/spring-certified-professional-2023
+
+PostgreSQL
+* [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
 
 Чистый Код:
 * [1] "Чистый код. Создание, Анализ, Рефакторинг" (Роберт Мартин), 2019-ый год
