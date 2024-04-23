@@ -69,11 +69,11 @@ Nested классы
 * [2] Data → Java → «Получи-Черный-Пояс» → «Другое-Курс-Трегулов-Кратко»
 
 Spring
-[1] На будущее: "Pivotal Certified Professional Spring Developer Exam", "Iuliana Cosmina", 468-477 страниц.
-[2] На будущее: "Pivotal Certified Professional Core Spring 5 Developer Exam" (Second Edition), "Iuliana Cosmina", 1007-1014 страниц.
-[3] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
-[4] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
-[5] На будущее: spring.academy/paths/spring-certified-professional-2023 
+* [1] На будущее: "Pivotal Certified Professional Spring Developer Exam", "Iuliana Cosmina", 468-477 страниц.
+* [2] На будущее: "Pivotal Certified Professional Core Spring 5 Developer Exam" (Second Edition), "Iuliana Cosmina", 1007-1014 страниц.
+* [3] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
+* [4] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
+* [5] На будущее: spring.academy/paths/spring-certified-professional-2023 
 
 Чистый Код:
 * [1] "Чистый код. Создание, Анализ, Рефакторинг" (Роберт Мартин), 2019-ый год
