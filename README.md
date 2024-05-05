@@ -7,14 +7,14 @@ Java:
 * [5] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
 * [6] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
 * [7] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
-* [7] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
-* [8] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
+* [8] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
+* [9] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
 * Всего:: 193 страницы с переводом.
-* [9] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
+* [10] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
 Jeanne Boyarsky), 2015-ый год, 379-389 страниц
-* [10] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
+* [11] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
-* [11] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"  
+* [12] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"  
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
