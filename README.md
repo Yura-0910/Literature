@@ -76,6 +76,7 @@ Spring
 * [3] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
 * [4] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
 * [5] На будущее: https://spring.academy/paths/spring-certified-professional-2023
+* [6] "Source": https://github.com/spring-projects
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
