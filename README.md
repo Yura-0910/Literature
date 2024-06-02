@@ -110,3 +110,13 @@ PostgreSQL
 SoftSkills
 * [1] «Мой продуктивный год» (Крис Бэйли) 
 * [2] Data → SoftSkills → «Мой-продуктивный-год»
+
+Kotlin (На будущее)
+* [1] https://kotlinlang.org/
+* [2] Исходный код:: https://github.com/jetbrains/kotlin
+* [3] https://www.jetbrains.com/datalore/
+* [4] https://play.kotlinlang.org/
+* [5] https://kotlinlang.ru/
+* [6] https://metanit.com/kotlin/tutorial/1.1.php
+* [7] https://hyperskill.org/
+* [8] https://www.geeksforgeeks.org/kotlin-programming-language/
