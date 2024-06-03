@@ -117,7 +117,7 @@ SoftSkills
 Kotlin (На будущее)
 * [1] https://kotlinlang.org/
 * [2] Исходный код:: https://github.com/jetbrains/kotlin
-* [3] https://www.jetbrains.com/datalore/
+* [3] Datalore:: https://www.jetbrains.com/datalore/
 * [4] https://play.kotlinlang.org/
 * [5] https://kotlinlang.ru/
 * [6] https://metanit.com/kotlin/tutorial/1.1.php
