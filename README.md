@@ -123,3 +123,11 @@ Kotlin (На будущее)
 * [6] https://metanit.com/kotlin/tutorial/1.1.php
 * [7] https://hyperskill.org/
 * [8] https://www.geeksforgeeks.org/kotlin-programming-language/
+
+Data Science (На будущее)
+* [1] Kotlin for data analysis﻿:: https://kotlinlang.org/docs/data-analysis-overview.html
+* [2] Программа курса:: https://code.s3.yandex.net/landings-v2-math-for-da-ds/Syllabus_Math_for_DA_DS.pdf
+* [3] Курс «Математика для анализа данных»:: https://practicum.yandex.ru/math-for-da-ds/
+* [4] Курс «Специалист по Data Science»:: https://practicum.yandex.ru/data-scientist/
+
+
