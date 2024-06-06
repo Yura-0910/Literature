@@ -2,7 +2,7 @@
 Java:
 * [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
 * [2] Курс «JAVA – получи Чёрный Пояс!». Автор: Заур Трегулов
-* [3] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (100 страниц)
+* [3] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (100 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы" 
 * [4] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
 * [5] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
 * [6] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
@@ -72,18 +72,19 @@ Nested классы
 * [2] Data → Java → «Получи-Черный-Пояс» → «Другое-Курс-Трегулов-Кратко»
 
 Spring
-* [1] На будущее: "Pivotal Certified Professional Spring Developer Exam", "Iuliana Cosmina", 468-477 страниц.
-* [2] На будущее: "Pivotal Certified Professional Core Spring 5 Developer Exam" (Second Edition), "Iuliana Cosmina", 1007-1014 страниц.
-* [3] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
-* [4] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
-* [5] На будущее: https://spring.academy/paths/spring-certified-professional-2023
-* [6] "Source": https://github.com/spring-projects
+* [1] Презентация "Spring для начинающих.pdf"(235 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы" 
+* [2] На будущее: "Pivotal Certified Professional Spring Developer Exam", "Iuliana Cosmina", 468-477 страниц.
+* [3] На будущее: "Pivotal Certified Professional Core Spring 5 Developer Exam" (Second Edition), "Iuliana Cosmina", 1007-1014 страниц.
+* [4] На будущее: "Spring Professional Practice Questions", "Javin Paul", 186-205 страниц.
+* [5] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
+* [6] На будущее: https://spring.academy/paths/spring-certified-professional-2023
+* [7] "Source": https://github.com/spring-projects
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
 * [2] Из документации: "Часть II. Язык SQL"
 * [3] Из документации: "Часть VI. Справочное руководство" (страница 1455)
-* [4] Презентация «Заур-Трегулов-SQL-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (93 страницы)
+* [4] Презентация «Заур-Трегулов-SQL-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (93 страницы):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
 * [5] ГуглДиск → Учеба → SQL → "Из-док-pdf-06-06-2024-13-46.pdf"
 
 Чистый Код:
