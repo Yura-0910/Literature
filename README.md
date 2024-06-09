@@ -118,7 +118,10 @@ SoftSkills
 * [2] Data → SoftSkills → «Мой-продуктивный-год»
 
 Kotlin (На будущее)
-* [1] https://kotlinlang.org/
+* [1.1] https://kotlinlang.org/
+* [1.2] https://kotlinlang.org/docs/basic-syntax.html
+* [1.3] https://kotlinlang.org/docs/kotlin-tour-classes.html
+* [1.4] Concepts
 * [2] Исходный код:: https://github.com/jetbrains/kotlin
 * [3] Datalore:: https://www.jetbrains.com/datalore/
 * [4] https://play.kotlinlang.org/
@@ -128,7 +131,8 @@ Kotlin (На будущее)
 * [8] https://www.geeksforgeeks.org/kotlin-programming-language/
 
 Data Science (На будущее)
-* [1] Kotlin for data analysis﻿:: https://kotlinlang.org/docs/data-analysis-overview.html
+* [1.1] Kotlin for data analysis﻿:: https://kotlinlang.org/docs/data-analysis-overview.html
+* [1.2] Data analysis:: https://kotlinlang.org/docs/get-started-with-kotlin-notebooks.html
 * [2] Программа курса:: https://code.s3.yandex.net/landings-v2-math-for-da-ds/Syllabus_Math_for_DA_DS.pdf
 * [3] Курс «Математика для анализа данных»:: https://practicum.yandex.ru/math-for-da-ds/
 * [4] Курс «Специалист по Data Science»:: https://practicum.yandex.ru/data-scientist/
