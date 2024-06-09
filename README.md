@@ -119,9 +119,9 @@ SoftSkills
 
 Kotlin (На будущее)
 * [1.1] https://kotlinlang.org/
-* [1.2] https://kotlinlang.org/docs/basic-syntax.html
-* [1.3] https://kotlinlang.org/docs/kotlin-tour-classes.html
-* [1.4] Concepts
+* [1.2] Basic syntax:: https://kotlinlang.org/docs/basic-syntax.html
+* [1.3] Kotlin Tour:: https://kotlinlang.org/docs/kotlin-tour-classes.html
+* [1.4] Concepts:: https://kotlinlang.org/docs/classes.html
 * [2] Исходный код:: https://github.com/jetbrains/kotlin
 * [3] Datalore:: https://www.jetbrains.com/datalore/
 * [4] https://play.kotlinlang.org/
