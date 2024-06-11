@@ -123,12 +123,13 @@ Kotlin (На будущее)
 * [1.3] Kotlin Tour:: https://kotlinlang.org/docs/kotlin-tour-classes.html
 * [1.4] Concepts:: https://kotlinlang.org/docs/classes.html
 * [2] Исходный код:: https://github.com/jetbrains/kotlin
-* [3] Datalore:: https://www.jetbrains.com/datalore/
-* [4] https://play.kotlinlang.org/
-* [5] https://kotlinlang.ru/
-* [6] https://metanit.com/kotlin/tutorial/1.1.php
-* [7] https://hyperskill.org/
-* [8] https://www.geeksforgeeks.org/kotlin-programming-language/
+* [3] https://discuss.kotlinlang.org/
+* [4] Datalore:: https://www.jetbrains.com/datalore/
+* [5] https://play.kotlinlang.org/
+* [6] https://kotlinlang.ru/
+* [7] https://metanit.com/kotlin/tutorial/1.1.php
+* [8] https://hyperskill.org/
+* [9] https://www.geeksforgeeks.org/kotlin-programming-language/
 
 Data Science (На будущее)
 * [1.1] Kotlin for data analysis﻿:: https://kotlinlang.org/docs/data-analysis-overview.html
