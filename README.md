@@ -79,6 +79,10 @@ Spring
 * [5] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
 * [6] На будущее: https://spring.academy/paths/spring-certified-professional-2023
 * [7] "Source": https://github.com/spring-projects
+* [8] 
+
+Spring Boot
+* [1] Data → SpringBoot → "Spring-Boot.docx" 
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
