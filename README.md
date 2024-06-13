@@ -15,7 +15,8 @@ Jeanne Boyarsky), 2015-ый год, 379-389 страниц
 * [11] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [12] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"
-* [13] https://metanit.com/java/tutorial/  
+* [13] https://metanit.com/java/tutorial/
+* [14] Презентация «Java-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (445 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы" 
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
