@@ -79,10 +79,17 @@ Spring
 * [5] На будущее: "Spring Interwiew Questions", "Amit Himani", 140-141 страница
 * [6] На будущее: https://spring.academy/paths/spring-certified-professional-2023
 * [7] "Source": https://github.com/spring-projects
-* [8] 
-
-Spring Boot
-* [1] Data → SpringBoot → "Spring-Boot.docx" 
+* [8.1] Data → Spring → Spring Core → "Spring DI"
+* [8.2] Data → Spring → Spring Core → "Spring DI_инет"
+* [8.3] Data → Spring → Spring Core → "Spring-Core-Часть-1"
+* [8.4] Data → Spring → Spring Core → IoC\DI
+* [9.1] Data → Spring → Web on Servlet Stack → "Spring-MVC.docx"
+* [10.1] Data → SpringBoot → "Spring-Boot.docx"
+* [11.1] Data → Spring Security → "Spring-Security.docx"
+* [12.1] Data → Spring Data → "docs.spring.io_Data Access"
+* [12.2] Data → Spring Data → "docs.spring.io_Data JPA"
+* [12.3] Data → Spring Data → "docs.spring.io_Data JPA_API"
+* [12.4] Data → Spring Data → "docs.spring.io_Data REST"
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
