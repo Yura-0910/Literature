@@ -1,23 +1,24 @@
 # Literature
 Java:
-* [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год
-* [2] Курс «JAVA – получи Чёрный Пояс!». Автор: Заур Трегулов
-* [3] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (100 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы" 
-* [4] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
-* [5] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
-* [6] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
-* [7] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
-* [8] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
-* [9] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
+* [1] "Java. Полное руководство" (Герберт Шилдт), 12-ое издание, 2022-ой год, 1345 страниц.
+* [2] "Java. Библиотека профессионала. Том 1. Основы. Одиннадцатое издание. Кей Хорстманн", 2019-ый год, 866 страниц.
+* [3] Курс «JAVA – получи Чёрный Пояс!». Автор: Заур Трегулов
+* [4] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (100 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
+* [5] Курс "Java (Джава) для начинающих: с нуля до сертификата Oracle". Автор: Заур Трегулов
+* [6] Презентация «Java-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (445 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
+* [7] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
+* [8] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
+* [9] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
+* [10] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
+* [11] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
+* [12] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
 * Всего:: 193 страницы с переводом.
-* [10] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
+* [13] На будущее: "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808" (Scott Selikoff,
 Jeanne Boyarsky), 2015-ый год, 379-389 страниц
-* [11] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
+* [14] На будущее: "OCP(Oracle Certified Professional), Java SE 17 Developer, Study Guide, Exam 1Z0-­829" (Scott Selikoff,
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
-* [12] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"
-* [13] https://metanit.com/java/tutorial/
-* [14] Презентация «Java-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (445 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
-* [15] "Java. Библиотека профессионала. Том 1. Основы. Одиннадцатое издание. Кей Хорстманн", 2019-ый год, 866 страниц. 
+* [15] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"
+* [16] https://metanit.com/java/tutorial/
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
