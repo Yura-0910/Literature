@@ -19,6 +19,8 @@ Jeanne Boyarsky), 2015-ый год, 379-389 страниц
 Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [15] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"
 * [16] https://metanit.com/java/tutorial/
+* [17] RoadMap для "Backend Developer":: https://roadmap.sh/backend
+* [18] RoadMap для "Java Developer":: https://roadmap.sh/java
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
@@ -93,6 +95,7 @@ Spring
 * [12.2] Data → Spring Data → "docs.spring.io_Data JPA"
 * [12.3] Data → Spring Data → "docs.spring.io_Data JPA_API"
 * [12.4] Data → Spring Data → "docs.spring.io_Data REST"
+* [13] RoadMap для "Spring Boot Developer":: https://roadmap.sh/spring-boot 
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
