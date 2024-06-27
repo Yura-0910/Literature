@@ -147,6 +147,9 @@ Kotlin (На будущее)
 * [7] https://metanit.com/kotlin/tutorial/1.1.php
 * [8] https://hyperskill.org/
 * [9] https://www.geeksforgeeks.org/kotlin-programming-language/
+* [10] Kotlin Standard Library::
+* https://kotlinlang.org/api/latest/jvm/stdlib/
+* https://kotlinlang.org/api/core/kotlin-stdlib/
 
 Data Science (На будущее)
 * [1.1] Kotlin for data analysis﻿:: https://kotlinlang.org/docs/data-analysis-overview.html
