@@ -20,7 +20,9 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [15] На будущее: Data → Java → "OCP-Java-SE-17-exam-1z0-829" → "Chapter1-Building-Blocks-Часть1"
 * [16] https://metanit.com/java/tutorial/
 * [17] RoadMap для "Backend Developer":: https://roadmap.sh/backend
-* [18] RoadMap для "Java Developer":: https://roadmap.sh/java
+* [18]
+* RoadMap для "Java Developer":: https://roadmap.sh/java
+* RoadMap для "Java Developer":: https://javarevisited.blogspot.com/2019/10/the-java-developer-roadmap.html
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
