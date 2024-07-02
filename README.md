@@ -159,5 +159,6 @@ Data Science (На будущее)
 * [2] Программа курса:: https://code.s3.yandex.net/landings-v2-math-for-da-ds/Syllabus_Math_for_DA_DS.pdf
 * [3] Курс «Математика для анализа данных»:: https://practicum.yandex.ru/math-for-da-ds/
 * [4] Курс «Специалист по Data Science»:: https://practicum.yandex.ru/data-scientist/
+* [5] Программа курса:: https://skillfactory.ru/matematika-dlya-data-science
 
 
