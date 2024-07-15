@@ -138,6 +138,9 @@ SoftSkills
 * [1] «Мой продуктивный год» (Крис Бэйли) 
 * [2] Data → SoftSkills → «Мой-продуктивный-год»
 
+Data Structures and Algorithms (DSA)
+* [1] На будущее:: "Грокаем алгоритмы" (Адитъя Бхаргава), 2017-ый год, 290 страниц.
+
 Kotlin (На будущее)
 * [1.1] https://kotlinlang.org/
 * [1.2] Basic syntax:: https://kotlinlang.org/docs/basic-syntax.html
