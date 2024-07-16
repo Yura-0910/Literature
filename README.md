@@ -147,6 +147,7 @@ Kotlin (На будущее)
 * [1.2] Basic syntax:: https://kotlinlang.org/docs/basic-syntax.html
 * [1.3] Kotlin Tour:: https://kotlinlang.org/docs/kotlin-tour-classes.html
 * [1.4] Concepts:: https://kotlinlang.org/docs/classes.html
+* [1.5] Learn Kotlin by Example:: https://play.kotlinlang.org/byExample/01_introduction/01_Hello%20world
 * [2] Исходный код:: https://github.com/jetbrains/kotlin
 * [3] https://discuss.kotlinlang.org/
 * [4] Datalore:: https://www.jetbrains.com/datalore/
