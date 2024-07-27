@@ -143,7 +143,7 @@ Data Structures and Algorithms (DSA)
 * [1] На будущее:: "Грокаем алгоритмы" (Адитъя Бхаргава), 2017-ый год, 290 страниц.
 
 Artificial Intelligence
-* [1] GigaCode
+* [1] GigaCode:: https://gigacode.ru (перечислены возможности)
 
 Kotlin (На будущее)
 * [1.1] https://kotlinlang.org/
