@@ -144,6 +144,7 @@ Data Structures and Algorithms (DSA)
 
 Artificial Intelligence
 * [1] GigaCode:: https://gigacode.ru (перечислены возможности)
+* [2] KotlinDL
 
 Kotlin (На будущее)
 * [1.1] https://kotlinlang.org/
