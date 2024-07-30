@@ -142,9 +142,11 @@ SoftSkills
 Data Structures and Algorithms (DSA)
 * [1] На будущее:: "Грокаем алгоритмы" (Адитъя Бхаргава), 2017-ый год, 290 страниц.
 
-Artificial Intelligence
+Artificial Intelligence (для IDEA)
 * [1] GigaCode:: https://gigacode.ru (перечислены возможности)
-* [2] KotlinDL
+  
+Artificial Intelligence, Machine Learning
+* [1] KotlinDL
 
 Kotlin (На будущее)
 * [1.1] https://kotlinlang.org/
