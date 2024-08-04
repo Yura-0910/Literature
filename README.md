@@ -91,7 +91,7 @@ Spring
 * [8.1] Data → Spring → Spring Core → "Spring DI"
 * [8.2] Data → Spring → Spring Core → "Spring DI_инет"
 * [8.3] Data → Spring → Spring Core → "Spring-Core-Часть-1"
-* [8.4] Data → Spring → Spring Core → IoC\DI
+* [8.4] Data → Spring → Spring Core → IoC\DI(папка)
 * [9.1] Data → Spring → Web on Servlet Stack → "Spring-MVC.docx"
 * [10.1] Data → SpringBoot → "Spring-Boot.docx"
 * [11.1] Data → Spring Security → "Spring-Security.docx"
