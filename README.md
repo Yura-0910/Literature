@@ -162,7 +162,7 @@ Kotlin (На будущее)
 * [5] https://play.kotlinlang.org/
 * [6] https://kotlinlang.ru/
 * [7] https://metanit.com/kotlin/tutorial/1.1.php
-* [8] https://hyperskill.org/
+* [8] бесплатно:: https://hyperskill.org/tracks/18-kotlin-core
 * [9] https://www.geeksforgeeks.org/kotlin-programming-language/
 * [10] Kotlin Standard Library::
 * https://kotlinlang.org/api/latest/jvm/stdlib/
