@@ -100,7 +100,8 @@ Spring
 * [12.2] Data → Spring Data → "docs.spring.io_Data JPA"
 * [12.3] Data → Spring Data → "docs.spring.io_Data JPA_API"
 * [12.4] Data → Spring Data → "docs.spring.io_Data REST"
-* [13] RoadMap для "Spring Boot Developer":: https://roadmap.sh/spring-boot 
+* [13] RoadMap для "Spring Boot Developer":: https://roadmap.sh/spring-boot
+* [14] Программа курса "Spring для начинающих" (Заур Трегулов):: https://stepik.org/course/115372/promo
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
