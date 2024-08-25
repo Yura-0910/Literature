@@ -181,3 +181,9 @@ Data Science (На будущее)
 
 Android (на будущее)
 * [1] https://developer.android.com/
+
+IDEA (plugins)
+* [1] SonarLint
+* [2] GigaCode
+* [3] Amplicode
+* [4] Kotlin NoteBook
