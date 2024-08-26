@@ -187,3 +187,4 @@ IDEA (plugins)
 * [2] GigaCode
 * [3] Amplicode
 * [4] Kotlin NoteBook
+* [5] intellij-java-google-style.xml
