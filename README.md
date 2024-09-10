@@ -97,6 +97,7 @@ Spring
 * [9.1] Data → Spring → Web on Servlet Stack → "Spring-MVC.docx"
 * [10.1] Data → SpringBoot → "Spring-Boot.docx"
 * [11.1] Data → Spring Security → "Spring-Security.docx"
+* [11.2] Data → Spring Security → "SpringSecurity-своими словами"
 * [12.1] Data → Spring Data → "docs.spring.io_Data Access"
 * [12.2] Data → Spring Data → "docs.spring.io_Data JPA"
 * [12.3] Data → Spring Data → "docs.spring.io_Data JPA_API"
