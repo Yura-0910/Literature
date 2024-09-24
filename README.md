@@ -8,7 +8,8 @@ Java:
 * [4] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (100 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
 * [5] Курс "Java (Джава) для начинающих: с нуля до сертификата Oracle". Автор: Заур Трегулов
 * [6] Презентация «Java-для-начинающих-с-нуля-до-сертификата-Oracle.pdf» (445 страниц):: храниться вот тут → "/home/source/Рабочий стол/Java-book/Заур_Трегулов_все_курсы"
-* [7] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
+* [7.1] "JDK 19 Documentation": https://docs.oracle.com/en/java/javase/19/index.html
+* [7.2] "JDK 17 Documentation": https://docs.oracle.com/en/java/javase/17/
 * [8] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
 * [9] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
 * [10] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
