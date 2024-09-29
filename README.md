@@ -140,7 +140,8 @@ PostgreSQL
 * [2] Список правил, которые отслеживает SonarLint:: rules.sonarsource.com/java/
 * [3.1] SonarLint, SonarQube, CheckStyle-IDEA, Codacy
 * [3.2] CODESCANNER (от Сбера)
-* [3.3] Yandex Code Assistant (типа GitHub Copilot)
+* [3.3] GigaCode (от Сбера)
+* [3.4] Yandex Code Assistant (типа GitHub Copilot)
 
 Рефакторинг:
 * [1] "Рефакторинг. Улучшение существующего кода" (Мартин Фаулер), 2007-ой год, 432 стр.
