@@ -102,6 +102,7 @@ Spring
 * [11.1] Data → Spring Security → "Spring-Security.docx"
 * [11.2] Data → Spring Security → "SpringSecurity-своими словами"
 * [11.3] Data → Spring Security → "Spring-Security-Часть-1"
+* [11.4] Доска "SpringSecurity" вот тут:: https://boards.yandex.ru/cabinet/
 * [12.1] Data → Spring Data → "docs.spring.io_Data Access"
 * [12.2] Data → Spring Data → "docs.spring.io_Data JPA"
 * [12.3] Data → Spring Data → "docs.spring.io_Data JPA_API"
