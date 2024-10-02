@@ -137,14 +137,21 @@ PostgreSQL
 * [6] "Code Conventions for the Java Programming Language"
 * https://www.oracle.com/java/technologies/javase/codeconventions-introduction.html
 * [7] В планах: "Java. Эффективное програмирование" (Джошуа Блох), 2-е издание, 2019-ый год
+* [8.0] Форматтеры кода::→ → → 
+* [8.1] google-java-format:: https://github.com/google/google-java-format
+* [8.2] Prettier Java:: https://github.com/jhipster/prettier-java
+* [8.3] Palantir Java Format:: https://github.com/palantir/palantir-java-format
+* [8.4] Spring Java Format:: https://github.com/spring-io/spring-javaformat
+* [8.5] CheckStyle-IDEA
 
 Статический анализаторы Java-кода\Линтеры:
 * [1] Data → "Как писать чистый код ?" → "Статический анализатор Java-кода" → "Обзор-статических-анализаторов"
 * [2] Список правил, которые отслеживает SonarLint:: rules.sonarsource.com/java/
-* [3.1] SonarLint, SonarQube, CheckStyle-IDEA, Codacy
+* [3.1] SonarLint, SonarQube
 * [3.2] CODESCANNER (от Сбера)
 * [3.3] GigaCode (от Сбера)
 * [3.4] Yandex Code Assistant (типа GitHub Copilot)
+* [3.5] Codacy
 
 Рефакторинг:
 * [1] "Рефакторинг. Улучшение существующего кода" (Мартин Фаулер), 2007-ой год, 432 стр.
