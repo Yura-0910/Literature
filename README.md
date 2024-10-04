@@ -31,6 +31,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [20.2] "The Java™ Tutorials":: https://docs.oracle.com/javase/tutorial/
 * [21.1] https://hyperskill.org/ 
 * [21.2] "Hyperskill Java Track Projects":: https://github.com/rusinek-wojciech/hyperskill-java-track
+* [22] Java Language Keywords
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
