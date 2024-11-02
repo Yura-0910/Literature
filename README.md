@@ -33,6 +33,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [21.1] https://hyperskill.org/ 
 * [21.2] "Hyperskill Java Track Projects":: https://github.com/rusinek-wojciech/hyperskill-java-track
 * [22] Java Language Keywords
+* [23] Axiom JDK
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
@@ -114,6 +115,8 @@ Spring
 * [12.5] Data → Spring Data → "Spring Data (Разное)"
 * [13] RoadMap для "Spring Boot Developer":: https://roadmap.sh/spring-boot
 * [14] Программа курса "Spring для начинающих" (Заур Трегулов):: https://stepik.org/course/115372/promo
+* [15] Explyt Spring Plugin
+* [16] JPA Buddy Plugin
 
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
