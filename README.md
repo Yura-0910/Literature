@@ -118,6 +118,13 @@ Spring
 * [15] Explyt Spring Plugin
 * [16] JPA Buddy Plugin
 
+Spring Tests
+* [1] Data → Spring Test → "Testing the Web Layer(Getting Started Guides)"
+* [2] Data → Spring Test → "Тестирование_изИнета_1"
+* [3] Data → Spring Test → "docs.spring.io_Testing_"1"+"2"+"3"
+* [4] Data → Spring Test → "пункт 8. Testing(docs.spring.io_SpringBoot_Testing)"
+* [5] Data → Spring Test → "docs.spring.io_Test_API" 
+
 PostgreSQL
 * [1] "Документация к PostgreSQL 16.2":: https://postgrespro.ru/docs/postgresql/16/
 * [2] Из документации: "Часть II. Язык SQL"
