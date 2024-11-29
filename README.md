@@ -102,6 +102,7 @@ Spring
 * [8.3] Data → Spring → Spring Core → "Spring-Core-Часть-1"
 * [8.4] Data → Spring → Spring Core → "Spring-Core-Часть-2"
 * [8.5] Data → Spring → Spring Core → IoC\DI(папка)
+* [8.6] Data → Spring → Spring Core → "BeanLifecycle"
 * [9.1] Data → Spring → Web on Servlet Stack → "Spring-MVC.docx"
 * [10.1] Data → SpringBoot → "Spring-Boot.docx"
 * [11.1] Data → Spring Security → "Spring-Security.docx"
