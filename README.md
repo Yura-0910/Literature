@@ -171,6 +171,7 @@ Quarkus
 * [3.4] Yandex Code Assistant (типа GitHub Copilot)
 * [3.5] Codacy
 * [3.6] SpotBugs (на подобие SonarLint)
+* [3.7] CheckStyle-IDEA
 
 Рефакторинг:
 * [1] "Рефакторинг. Улучшение существующего кода" (Мартин Фаулер), 2007-ой год, 432 стр.
