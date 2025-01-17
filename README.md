@@ -49,6 +49,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [10] «Java. Эффективное програмирование» (Джошуа Блох), Глава 10 «Потоки» (стр. 358-398)
 * [11] <b>Data → «Как писать чистый код ?» → «MultiThreading-Джошуа-Блох-Кратко»</b>
 * [12] <b>«Исходный код» → «/Документы/LearnJava-Prj/MultiThreadingAgain» + проект «MultiThreading» на Github</b>
+* [13] Data → Java → MultiThreading → «MindMap-Многопоточность»
 * В планах: «MultiThreading-JLS-Chapter-17»
 * В планах: «MultiThreading-API»
 
