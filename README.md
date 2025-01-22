@@ -12,7 +12,9 @@ Java:
 * [7.2] "JDK 17 Documentation": https://docs.oracle.com/en/java/javase/17/
 * [8] "JDK 19 API Specification": https://docs.oracle.com/en/java/javase/19/docs/api/index.html
 * [9] "OpenJDK 21 Documentation": https://devdocs.io/openjdk~21/
-* [10] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
+* [10.1] "Source, OpenJDK 21": https://github.com/openjdk/jdk21
+* [10.2] "https://github.com/openjdk/jdk"
+* [10.3] "https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/lang"
 * [11.1] "Java Language and Virtual Machine Specifications": https://docs.oracle.com/javase/specs/index.html
 * [11.2] "The Java® Language Specification":: https://docs.oracle.com/javase/specs/jls/se23/html/index.html
 * [12] Перевод книги "OCA(Oracle Certified Associate), Java SE 8 Programmer I, Study Guide, Exam 1Z0-808":: в блочной тетраде, плюс еще две пачки листов с переводом.
