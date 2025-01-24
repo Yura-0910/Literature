@@ -194,6 +194,7 @@ Data Structures and Algorithms (DSA)
 Artificial Intelligence (для IDEA)
 * [1] GigaCode:: https://gigacode.ru (перечислены возможности)
 * [2] KODIFY:: сервис генерации и дополнения кода от МТС
+* [3] Junie от JetBrains:: автономный нейросетевой агент-программист
   
 Artificial Intelligence, Machine Learning
 * [1] KotlinDL
