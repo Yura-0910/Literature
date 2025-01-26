@@ -54,6 +54,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [13] Data → Java → MultiThreading → «MindMap-Многопоточность»
 * В планах: «MultiThreading-JLS-Chapter-17»
 * В планах: «MultiThreading-API»
+* [14] "Jeanne_Boyarsky,_Scott_Selikoff_OCP_Oracle_Certified_Professional.pdf":: глава "Concurrency", страницы 787 - 851
 
 Java Collection Framework
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 4-28)
