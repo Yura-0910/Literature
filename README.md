@@ -61,7 +61,7 @@ Java Collection Framework
 * [2] Data → Java → «Java Collection Framework» → «JCF-Курс-Трегулов-Кратко»
 * [3] Data → Java → «Java Collection Framework» → «JCF-API-своими-словами»
 * [4] Data → Java → «Java Collection Framework» → «MindMap-JCF»
-* [5] "Jeanne_Boyarsky,_Scott_Selikoff_OCP_Oracle_Certified_Professional.pdf":: глава 9 "Collections and Generics", страницы 463 - 530
+* [5] "Jeanne_Boyarsky,_Scott_Selikoff_OCP_Oracle_Certified_Professional.pdf":: глава 9 "Collections and Generics", страницы 463 - 530.
 
 Stream
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 39-44)
