@@ -66,6 +66,7 @@ Java Collection Framework
 Stream
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 39-44)
 * [2] Data → Java → Stream → «Streams-Курс-Трегулов-Кратко»
+* [3] Data → Java → Stream → «MindMap-Stream»
 
 io-nio
 * [1] Презентация «Заур-Трегулов-Java-получи-Черный-Пояс.pdf» (страницы 69-85)
