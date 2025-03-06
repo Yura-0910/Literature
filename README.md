@@ -240,6 +240,7 @@ Android (на будущее)
 IDEA (plugins)
 * [1] SonarLint
 * [2] GigaCode
-* [3] Amplicode
+* [3.1] Amplicode
+* [3.2] JPA Buddy
 * [4] Kotlin NoteBook
 * [5] intellij-java-google-style.xml
