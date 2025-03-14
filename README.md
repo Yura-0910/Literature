@@ -244,3 +244,4 @@ IDEA (plugins)
 * [3.2] JPA Buddy
 * [4] Kotlin NoteBook
 * [5] intellij-java-google-style.xml
+* [6] Database Navigator
