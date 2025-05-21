@@ -197,6 +197,11 @@ SoftSkills
 Data Structures and Algorithms (DSA)
 * [1] На будущее:: "Грокаем алгоритмы" (Адитъя Бхаргава), 2017-ый год, 290 страниц.
 * [2] "Видео_курс_Алгоритмы_и_структуры_данных" (Храниться тут:: /home/source/Рабочий стол/Java-book/Data Structures and Algorithms)
+* [3]
+* Влад Тен:: Паттерны с LeetCode
+* https://habr.com/ru/articles/906642/
+* https://habr.com/ru/articles/907944/
+* https://habr.com/ru/articles/910300/
 
 Artificial Intelligence (для IDEA)
 * [1] GigaCode:: https://gigacode.ru (перечислены возможности)
