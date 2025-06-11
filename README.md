@@ -253,3 +253,6 @@ IDEA (plugins)
 * [8] Lombok
 * [9] Docker
 * [10] JPA Buddy
+
+Python
+* [1] Экзамены:: PCEP, PCAP, PCPP (https://pythoninstitute.org/)
