@@ -238,6 +238,8 @@ Data Science (На будущее)
 * [3] Курс «Математика для анализа данных»:: https://practicum.yandex.ru/math-for-da-ds/
 * [4] Курс «Специалист по Data Science»:: https://practicum.yandex.ru/data-scientist/
 * [5] Программа курса:: https://skillfactory.ru/matematika-dlya-data-science
+* [6.1] Экзамен:: PCED™ – Certified Entry-Level Data Analyst with Python
+* [6.2] Экзамен:: PCAD™ – Certified Associate Data Analyst with Python
 
 Android (на будущее)
 * [1] https://developer.android.com/
