@@ -240,6 +240,8 @@ Data Science (На будущее)
 * [5] Программа курса:: https://skillfactory.ru/matematika-dlya-data-science
 * [6.1] Экзамен:: PCED™ – Certified Entry-Level Data Analyst with Python
 * [6.2] Экзамен:: PCAD™ – Certified Associate Data Analyst with Python
+* [7.1] Colab Google
+* [7.2] GigaIDE Cloud
 
 Android (на будущее)
 * [1] https://developer.android.com/
