@@ -259,3 +259,6 @@ IDEA (plugins)
 
 Python
 * [1] Экзамены:: PCEP, PCAP, PCPP (https://pythoninstitute.org/)
+
+Python (Backend)
+* [1] RoadMap:: https://habr.com/ru/articles/919588/
