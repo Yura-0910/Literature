@@ -203,6 +203,7 @@ Data Structures and Algorithms (DSA)
 * https://habr.com/ru/articles/906642/
 * https://habr.com/ru/articles/907944/
 * https://habr.com/ru/articles/910300/
+* https://habr.com/ru/articles/932998/
 
 Artificial Intelligence (для IDEA)
 * [1] GigaCode:: https://gigacode.ru (перечислены возможности)
