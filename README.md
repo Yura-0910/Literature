@@ -112,6 +112,7 @@ Spring
 * [8.5] Data → Spring → Spring Core → IoC\DI(папка)
 * [8.6] Data → Spring → Spring Core → "BeanLifecycle"
 * [8.7] Data → Spring → Spring Core → "Spring-Core-MindMap"
+* [8.8] Data → Spring → Spring Core → "Spring-Core-MindMap2"
 * [9.1] Data → Spring → Web on Servlet Stack → "Spring-MVC.docx"
 * [10.1] Data → SpringBoot → "Spring-Boot.docx"
 * [11.1] Data → Spring Security → "Spring-Security.docx"
