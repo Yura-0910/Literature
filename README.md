@@ -265,3 +265,4 @@ Python
 
 Python (Backend)
 * [1] RoadMap:: https://habr.com/ru/articles/919588/
+* [2] https://t.me/ru_python_beginners/2989993
