@@ -263,7 +263,6 @@ IDEA (plugins)
 
 Python
 * [1] Экзамены:: PCEP, PCAP, PCPP (https://pythoninstitute.org/)
-
-Python (Backend)
-* [1] RoadMap:: https://habr.com/ru/articles/919588/
-* [2] https://t.me/ru_python_beginners/2989993
+* [2] RoadMap:: https://habr.com/ru/articles/919588/
+* [3] https://t.me/ru_python_beginners/2989993
+* [4] Data2 -> Python -> "Python-сравнение"
