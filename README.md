@@ -39,6 +39,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [23] Axiom JDK
 * [24] Java -> Core -> Java-MindMap1
 * [25] Java -> OCP-Java-SE-17-exam-1z0-829
+* [26] https://qojav.github.io/java-developer-roadmap/languages/ru/phase1/
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
