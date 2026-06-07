@@ -41,6 +41,7 @@ Jeanne Boyarsky), 2022-ой год, 993-1059 страниц
 * [25] Java -> OCP-Java-SE-17-exam-1z0-829
 * [26] Java -> Java-Language-Specification-17
 * [27] https://qojav.github.io/java-developer-roadmap/languages/ru/phase1/
+* [28] Генерация документации из исходного кода:: "javadoc --module-source-path jdk-src-root -d myDocs --module java.base", где "jdk-src-root" — папка со всеми исходниками Java, а "myDocs" - папка, где будет храниться итоговая документация.
 
 Многопоточность:
 * [1] Курс «JAVA – получи Чёрный Пояс!» (главы 8.1-8.25). Автор: Заур Трегулов
